@@ -17,6 +17,8 @@ Este guia foi criado para estudantes iniciantes em programação, sem experiênc
 - `docs/02-conceitos.md`
 - `docs/03-exercicios.md`
 - `docs/04-referencias.md`
+- `docs/05-extra1.md`
+- `docs/06-extra2.md`
 
 ## Como navegar
 Recomenda-se seguir a ordem numérica dos arquivos: comece pela introdução (contexto histórico e primeiros passos), avance para os conceitos fundamentais (variáveis, tipos, estruturas de controle), pratique com os exercícios propostos e, por fim, consulte as referências para aprofundamento.
